@@ -1,5 +1,5 @@
 # Formatting the publication date
-### Homework on React + TypeScript + Vite
+### Homework on React + TypeScript + Vite (HOC)
 
 GitHub Page - https://dmiweb.github.io/formatting-publication-date
 
